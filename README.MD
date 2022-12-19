@@ -25,6 +25,8 @@ Stage 4: Create a game menu for the application.
 
 Stage 5: Implement the 'Play a game' menu option to actually do the quiz.
 
+Stage 6: Save the player scores and print them.
+
 Have fun!
 
 ## Project completion
@@ -43,3 +45,5 @@ Have fun!
 
 12.12.22 Stage 4 completed - implement a game menu
 
+19.12.22 Stage 5 completed - implement the play menu option, that lets users enter their name, solve quizzes, provided by 
+the socket endpoint in a loop until the first wrong answer is given and display their score
