@@ -31,7 +31,7 @@ Have fun!
 
 ## Project completion
 
-[Project was completed on 10.11.22.]: #
+Project was completed on 19.12.22
 
 ## Progress
 
@@ -47,3 +47,6 @@ Have fun!
 
 19.12.22 Stage 5 completed - implement the play menu option, that lets users enter their name, solve quizzes, provided by 
 the socket endpoint in a loop until the first wrong answer is given and display their score
+
+19.12.22 Final Stage 6 completed - append user score statistics to file, implement display and reset, date function used 
+and command lists
